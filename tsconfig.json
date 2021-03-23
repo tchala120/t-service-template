@@ -27,7 +27,13 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "paths": {
-      "@src/*": ["src/*"]
+      "@src/*": ["src/*"],
+      "@constants/*": ["src/constants/*"],
+      "@graphql/*": ["src/graphql/*"],
+      "@handler/*": ["src/handler/*"],
+      "@middlewares/*": ["src/middlewares/*"],
+      "@models/*": ["src/models/*"],
+      "@utils/*": ["src/utils/*"]
     }
   },
   "include": ["./src/**/*"],
