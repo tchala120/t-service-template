@@ -1,5 +1,3 @@
-# with-typescript-eslint-lint-staged-prettier-template
+# Service project structure tempalte
 
-This Repo is contain a template that you can clone and run on it.
-
-**ENJOY**
+A Template for my api services.
